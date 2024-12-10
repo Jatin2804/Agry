@@ -15,7 +15,7 @@ const Info = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get(`http://localhost:5000/data/${category.toLowerCase()}`);
+        const response = await axios.get(`https://agry.onrender.com/data/${category.toLowerCase()}`);
   
         console.log(response.data); // Debugging: Log the full response
   

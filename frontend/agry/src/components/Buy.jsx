@@ -24,7 +24,7 @@ import "swiper/css/navigation";
 import { Navigation, Pagination } from "swiper/modules";
 import debounce from "lodash/debounce";
 
-const API_URLS = "http://localhost:5000/data/";
+const API_URLS = "https://agry.onrender.com/data/";
 
 const Buy = () => {
   const [products, setProducts] = useState({

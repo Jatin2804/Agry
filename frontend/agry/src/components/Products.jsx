@@ -20,7 +20,7 @@ import { Link } from 'react-router-dom';
 import debounce from 'lodash/debounce';
 import { useAppContext } from '../AppContext';
 
-const API_URLS = 'http://localhost:5000/data/';
+const API_URLS = 'https://agry.onrender.com/data/';
 
 const Products = () => {
   const [products, setProducts] = useState({

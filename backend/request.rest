@@ -1,0 +1,20 @@
+### Login with email and password
+POST http://localhost:5000/auth/login
+Content-Type: application/json
+
+{
+  "email": "johndoe@example.com",
+  "password": "password123"
+}
+###
+POST http://localhost:5000/auth/register
+Content-Type: application/json
+
+{
+  "username": "Jhon",
+  "email": "johndoe@example.com",
+  "password": "password123"
+}
+
+### Fetch data for fruits
+GET http://localhost:5000/data/fruits

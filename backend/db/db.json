@@ -1,0 +1,402 @@
+{
+  "grains": [
+    {
+      "id": 1,
+      "name": "Wheat",
+      "info": "Wheat thrives in cool, dry climates and requires well-drained soil. It is sensitive to waterlogging but requires adequate moisture during the germination phase.",
+      "bestPractices": "1. Use nitrogen-rich fertilizers. 2. Rotate crops to prevent pests. 3. Maintain proper irrigation during flowering. 4. Use certified seeds for better yield. 5. Apply mulch to retain soil moisture. 6. Control weeds with herbicides. 7. Regularly monitor for rust diseases. 8. Ensure proper seed depth for sowing. 9. Avoid overwatering to prevent root rot. 10. Harvest at the correct stage of maturity.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733467157/agryImages/c9qk5z23wuls21jjxptf.jpg",
+      "bp": 25,
+      "sp": 35
+    },
+    {
+      "id": 2,
+      "name": "Rice",
+      "info": "Rice grows best in hot, humid climates with plenty of water. It thrives in flooded or waterlogged fields, requiring consistent water supply during the growth phase.",
+      "bestPractices": "1. Use short-duration, high-yield varieties. 2. Maintain water levels in paddy fields. 3. Practice SRI (System of Rice Intensification) methods. 4. Apply organic manure before planting. 5. Manage pests like stem borers effectively. 6. Use proper spacing between plants. 7. Harvest on time to avoid grain shattering. 8. Avoid excessive fertilizer use to prevent lodging. 9. Utilize laser leveling for efficient water use. 10. Rotate crops to improve soil fertility.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733467157/agryImages/k7huoclnduzippuaexjp.jpg",
+      "bp": 30,
+      "sp": 45
+    },
+    {
+      "id": 3,
+      "name": "Barley",
+      "info": "Barley is well-suited for cooler regions and tolerates drought better than many other grains. It requires moderate rainfall and prefers well-drained soils.",
+      "bestPractices": "1. Sow seeds in early spring for maximum yield. 2. Choose disease-resistant barley varieties. 3. Test soil for nutrient deficiencies. 4. Apply phosphorus-based fertilizers. 5. Ensure timely weed control. 6. Use crop rotation to minimize disease. 7. Avoid waterlogged conditions during growth. 8. Harvest when grains are golden-yellow. 9. Store barley in dry, cool conditions. 10. Incorporate organic matter into the soil.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733686212/agryImages/pghpartwtxg6rtst0vzg.webp",
+      "bp": 20,
+      "sp": 32
+    },
+    {
+      "id": 4,
+      "name": "Maize",
+      "info": "Maize requires a warm climate and grows well in loamy soils with good drainage. It is sensitive to frost and waterlogging.",
+      "bestPractices": "1. Use high-quality hybrid seeds. 2. Ensure adequate soil aeration. 3. Provide balanced fertilizers, especially nitrogen. 4. Irrigate during tasseling and silking stages. 5. Control pests like corn borers. 6. Practice intercropping with legumes. 7. Avoid planting in frost-prone areas. 8. Harvest at the right moisture content. 9. Remove crop residues post-harvest. 10. Regularly inspect for fungal infections.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733470919/agryImages/w9p2xdg2mrdawpsxo6ow.webp",
+      "bp": 18,
+      "sp": 28
+    },
+    {
+      "id": 5,
+      "name": "Oats",
+      "info": "Oats thrive in cool, temperate climates and prefer moist, well-drained soils. They are resistant to frost and can tolerate wet conditions.",
+      "bestPractices": "1. Use early-maturing oat varieties. 2. Fertilize with potassium and phosphorus. 3. Manage soil pH to be slightly acidic. 4. Sow seeds shallowly for quick germination. 5. Practice crop rotation to enhance yields. 6. Control aphids and rust diseases. 7. Regularly weed the field. 8. Harvest at the dough stage for fodder. 9. Avoid excessive nitrogen to prevent lodging. 10. Mulch fields to retain moisture.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733686320/agryImages/wvuie1k7pag2lrbporcj.webp",
+      "bp": 15,
+      "sp": 25
+    },
+    {
+      "id": 6,
+      "name": "Millet",
+      "info": "Millets are hardy grains that grow well in arid and semi-arid regions. They require minimal water and are resilient to drought.",
+      "bestPractices": "1. Use drought-tolerant millet varieties. 2. Apply organic compost for better growth. 3. Practice dryland farming techniques. 4. Use proper spacing to avoid competition. 5. Control weeds manually or with herbicides. 6. Harvest at full maturity for higher yield. 7. Rotate crops to manage soil fertility. 8. Test soil before planting for nutrient balance. 9. Apply balanced micro-nutrient fertilizers. 10. Monitor for pests like grasshoppers.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733686382/agryImages/iqpwgyw0inp7hsiovsxo.webp",
+      "bp": 12,
+      "sp": 22
+    },
+    {
+      "id": 7,
+      "name": "Sorghum",
+      "info": "Sorghum is a drought-resistant grain that thrives in hot, semi-arid climates. It prefers loamy to sandy soils with good drainage.",
+      "bestPractices": "1. Use early-maturing varieties for dry areas. 2. Practice intercropping with legumes. 3. Apply organic manure before planting. 4. Irrigate sparingly but effectively. 5. Manage pests like aphids and shoot flies. 6. Use resistant hybrids for better yields. 7. Harvest grains when they are dry. 8. Avoid over-fertilization to prevent lodging. 9. Use proper spacing for airflow. 10. Incorporate post-harvest crop residue as mulch.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733467155/agryImages/cd8uxhy20uzdkvwghlof.jpg",
+      "bp": 17,
+      "sp": 27
+    },
+    {
+      "id": 8,
+      "name": "Quinoa",
+      "info": "Quinoa is a high-altitude crop that grows well in dry, sandy soils. It is resilient to salinity and drought.",
+      "bestPractices": "1. Use certified quinoa seeds. 2. Avoid waterlogging during germination. 3. Apply potassium-rich fertilizers. 4. Manage pests like aphids and beetles. 5. Weed the field regularly. 6. Harvest when seed husks turn golden. 7. Rotate with nitrogen-fixing crops. 8. Protect from excessive rainfall during growth. 9. Use drip irrigation to conserve water. 10. Mulch to retain soil moisture.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733686445/agryImages/rxgolqwmcxetzrggwbyj.avif",
+      "bp": 50,
+      "sp": 70
+    },
+    {
+      "id": 9,
+      "name": "Rye",
+      "info": "Rye grows best in cool climates and can tolerate poor soil quality. It requires moderate rainfall and is resistant to frost.",
+      "bestPractices": "1. Plant rye as a cover crop to prevent erosion. 2. Fertilize with nitrogen during growth. 3. Control weeds with pre-emergence herbicides. 4. Rotate with legumes for soil health. 5. Monitor for ergot fungus infections. 6. Harvest early to avoid lodging. 7. Use well-drained, sandy soils. 8. Avoid over-irrigation. 9. Incorporate crop residue into the soil post-harvest. 10. Store grains in a dry, cool place.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733467155/agryImages/ded8lzflhikw2goxnrkm.jpg",
+      "bp": 22,
+      "sp": 34
+    },
+    {
+      "id": 10,
+      "name": "Buckwheat",
+      "info": "Buckwheat is a quick-growing crop that thrives in acidic soils. It grows well in cool, moist climates.",
+      "bestPractices": "1. Use buckwheat as a cover crop for weed control. 2. Avoid excessive fertilizer application. 3. Plant in well-drained soils. 4. Harvest when seeds turn black. 5. Rotate with cereal crops to improve soil. 6. Ensure proper seed spacing for airflow. 7. Control pests like aphids. 8. Mulch to conserve soil moisture. 9. Regularly weed the field. 10. Avoid planting in extremely hot climates.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733467156/agryImages/kbszo40dscvchwiwu47x.webp",
+      "bp": 40,
+      "sp": 60
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "info": "Apples thrive in temperate climates and well-drained, fertile soils. They require consistent care during the growing season.",
+      "bestPractices": "1. Plant disease-resistant apple varieties. 2. Prune trees regularly for better air circulation. 3. Monitor for pests like codling moths. 4. Use organic compost to improve soil health. 5. Irrigate during dry spells. 6. Harvest at the correct stage of maturity. 7. Prevent waterlogging by ensuring good drainage. 8. Apply appropriate fertilizers for balanced growth. 9. Practice crop rotation to control soil-borne diseases. 10. Mulch to retain soil moisture.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733468621/agryImages/inykjvhdjnzqcavhbpi1.jpg",
+      "bp": 20,
+      "sp": 30
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "info": "Bananas grow best in tropical and subtropical climates with well-drained soils and consistent rainfall.",
+      "bestPractices": "1. Use disease-resistant banana varieties. 2. Ensure consistent irrigation during dry seasons. 3. Use organic manure for soil enrichment. 4. Control pests like the banana weevil. 5. Mulch fields to conserve moisture. 6. Avoid overcrowding of plants. 7. Monitor plants for signs of fungal diseases. 8. Harvest when the fruits are fully mature. 9. Rotate crops to prevent nutrient depletion. 10. Practice intercropping to diversify yields.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733468726/agryImages/nl3qqy8dgildvmmxehk1.webp",
+      "bp": 25,
+      "sp": 35
+    },
+    {
+      "id": 3,
+      "name": "Mango",
+      "info": "Mangoes prefer tropical and subtropical climates with well-drained soils. They require consistent rainfall and sunlight.",
+      "bestPractices": "1. Plant mango trees in areas with well-drained soil. 2. Prune trees regularly to prevent fungal diseases. 3. Control pests like the mango hopper. 4. Provide proper irrigation during the flowering stage. 5. Use organic mulch to retain moisture. 6. Harvest when the fruits are ripe but firm. 7. Monitor for diseases like anthracnose. 8. Apply balanced fertilizers. 9. Rotate crops to improve soil conditions. 10. Prevent overwatering.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733468956/agryImages/uuovl53fswgybfhtsqer.webp",
+      "bp": 30,
+      "sp": 40
+    },
+    {
+      "id": 4,
+      "name": "Orange",
+      "info": "Oranges thrive in subtropical and tropical regions with well-drained soil and consistent sunshine.",
+      "bestPractices": "1. Plant orange trees in deep, well-drained soils. 2. Irrigate during dry periods. 3. Monitor for pests like aphids and citrus greening. 4. Prune regularly to promote better growth. 5. Apply organic compost for added soil nutrients. 6. Rotate crops to prevent nutrient depletion. 7. Harvest oranges when fully ripe. 8. Mulch to retain soil moisture and control weeds. 9. Regularly test soil for nutrient balance. 10. Use pest management practices to maintain healthy orchards.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733469052/agryImages/imxgmfrpodvmyq4xltr7.jpg",
+      "bp": 28,
+      "sp": 38
+    },
+    {
+      "id": 5,
+      "name": "Strawberry",
+      "info": "Strawberries prefer temperate climates with fertile, well-drained soils and require careful management to prevent diseases.",
+      "bestPractices": "1. Plant strawberries in raised beds with good drainage. 2. Use organic fertilizers for improved soil health. 3. Regularly control pests like aphids and spider mites. 4. Water consistently during the growing season. 5. Mulch fields to retain moisture and prevent weed growth. 6. Monitor for fungal diseases like gray mold. 7. Harvest when berries are fully ripe. 8. Rotate fields annually to minimize soil-borne diseases. 9. Test soil regularly for optimal pH. 10. Use drip irrigation for efficient water use.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733469488/agryImages/jet6zffbqa3opolqviwd.jpg",
+      "bp": 20,
+      "sp": 30
+    },
+    {
+      "id": 6,
+      "name": "Grapes",
+      "info": "Grapes grow best in regions with a Mediterranean climate, requiring well-drained soil and plenty of sunshine.",
+      "bestPractices": "1. Prune grape vines annually to promote better air circulation. 2. Control pests such as grape berry moths. 3. Use organic compost to boost soil fertility. 4. Monitor for fungal diseases like downy mildew. 5. Ensure consistent irrigation during fruit development. 6. Harvest grapes at the correct ripeness stage. 7. Use proper spacing for vine growth. 8. Rotate fields to prevent soil-borne diseases. 9. Mulch to retain moisture and suppress weeds. 10. Apply adequate disease prevention strategies.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733469618/agryImages/vebxcoqhhy1hlqn1dzmg.jpg",
+      "bp": 22,
+      "sp": 32
+    },
+    {
+      "id": 7,
+      "name": "Pineapple",
+      "info": "Pineapples prefer tropical climates with well-drained soil and plenty of sunlight.",
+      "bestPractices": "1. Plant pineapple crops in nutrient-rich, sandy soils. 2. Water consistently, especially during the dry season. 3. Control pests such as mealybugs and nematodes. 4. Use organic compost for improved growth. 5. Rotate crops to maintain soil health. 6. Harvest at the optimal ripeness to ensure better flavor. 7. Use proper spacing for airflow. 8. Monitor regularly for disease outbreaks. 9. Prune old leaves to avoid disease buildup. 10. Mulch to conserve moisture and suppress weed growth.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733469386/agryImages/x8ydgqhp7pcgwigbvwnc.jpg",
+      "bp": 30,
+      "sp": 40
+    },
+    {
+      "id": 8,
+      "name": "Watermelon",
+      "info": "Watermelons thrive in warm climates with sandy, well-drained soils and need plenty of water during growth.",
+      "bestPractices": "1. Plant watermelon seeds in sandy soils with proper drainage. 2. Ensure consistent irrigation, especially during flowering. 3. Use organic fertilizers for improved growth. 4. Monitor for pests like aphids and cucumber beetles. 5. Mulch to retain soil moisture. 6. Harvest when fruits sound hollow when tapped. 7. Space plants appropriately to allow for growth. 8. Avoid overcrowding to prevent disease. 9. Test soil pH levels before planting. 10. Use proper crop rotation strategies.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733686509/agryImages/hapak4fwluokfe4afxnp.jpg",
+      "bp": 20,
+      "sp": 30
+    },
+    {
+      "id": 9,
+      "name": "Papaya",
+      "info": "Papayas thrive in tropical and subtropical regions with well-drained soils. They require warm temperatures and consistent care for optimal growth.",
+      "bestPractices": "1. Plant papaya in well-drained, fertile soil. 2. Ensure adequate sunlight exposure, as papaya needs at least 6-8 hours of sunlight daily. 3. Regularly irrigate but avoid waterlogging. 4. Apply organic compost or fertilizers during the growing period. 5. Monitor for pests like fruit flies and aphids. 6. Protect plants from strong winds, as papaya has shallow roots. 7. Thin out plants to prevent overcrowding. 8. Test soil pH to maintain a range between 6.0 and 6.5. 9. Harvest fruits when they start turning yellow. 10. Use mulching to maintain soil moisture.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733469745/agryImages/dxeuxh9fzyjrsv0jgqcc.jpg",
+      "bp": 15,
+      "sp": 25
+    },
+    {
+      "id": 10,
+      "name": "Litchi",
+      "info": "Litchis are subtropical fruits that require a cool, dry winter and a hot, humid summer for proper growth.",
+      "bestPractices": "1. Plant litchi in deep, well-drained soils with organic matter. 2. Provide full sun exposure for better fruit yield. 3. Irrigate regularly, especially during dry spells, but avoid waterlogging. 4. Apply balanced fertilizers during the growing season. 5. Prune trees to maintain shape and remove deadwood. 6. Protect against pests like litchi stink bugs and fruit borers. 7. Mulch around the tree base to retain moisture. 8. Avoid planting in frost-prone areas. 9. Ensure good airflow around the tree. 10. Harvest when the fruits turn bright red and plump.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733469963/agryImages/bhkju7xnqjtmmigeytly.jpg",
+      "bp": 40,
+      "sp": 50
+    },
+    {
+      "id": 11,
+      "name": "Guava",
+      "info": "Guavas are hardy plants that grow well in a wide range of soils and require minimal maintenance, thriving in tropical and subtropical climates.",
+      "bestPractices": "1. Plant guava in well-drained soils with good sunlight exposure. 2. Water regularly but allow soil to dry slightly between watering. 3. Apply organic fertilizers for better fruit production. 4. Prune trees annually to maintain shape and remove diseased branches. 5. Protect against pests like fruit flies and guava moths. 6. Thin out fruits for better size and quality. 7. Use mulching to conserve soil moisture. 8. Test soil pH for an ideal range of 4.5 to 7.0. 9. Harvest fruits when they are firm and yellowish-green. 10. Ensure proper spacing between trees to allow for growth.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733470066/agryImages/n4uqofg87zibnp0ue87w.jpg",
+      "bp": 40,
+      "sp": 20
+    }
+  ],
+  "vegetables": [
+    {
+      "id": 1,
+      "name": "Tomato",
+      "info": "Tomatoes grow best in warm climates with plenty of sunlight. They require well-drained soil and regular watering.",
+      "bestPractices": "1. Use disease-resistant varieties. 2. Plant in well-drained, nutrient-rich soil. 3. Provide consistent watering. 4. Prune regularly to remove dead leaves. 5. Mulch to retain moisture. 6. Use supports to prevent fruit from touching the ground. 7. Rotate crops annually. 8. Monitor for pests like aphids and whiteflies. 9. Harvest when fruit is firm and red. 10. Avoid over-fertilization.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733470727/agryImages/mvkvl5jbawwh19ir7eqg.jpg",
+      "sp": 50,
+      "bp": 30
+    },
+    {
+      "id": 2,
+      "name": "Potato",
+      "info": "Potatoes grow best in cool climates and well-drained soils. They need moderate watering and a lot of sunlight.",
+      "bestPractices": "1. Use certified seed potatoes. 2. Plant in loose, well-drained soil. 3. Water consistently to prevent drought stress. 4. Hill soil around plants to protect tubers. 5. Rotate crops every year to prevent soil-borne diseases. 6. Use organic compost to improve soil quality. 7. Monitor for pests like aphids and Colorado potato beetles. 8. Harvest when vines begin to die back. 9. Store in cool, dark conditions. 10. Avoid excessive watering during tuber formation.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733471030/agryImages/fnqkxzcsw7xvoxv2q4bq.jpg",
+      "sp": 40,
+      "bp": 20
+    },
+    {
+      "id": 3,
+      "name": "Carrot",
+      "info": "Carrots thrive in loose, sandy soils and prefer cool weather. They need plenty of water and sunlight.",
+      "bestPractices": "1. Sow seeds in well-prepared, loose soil. 2. Thin seedlings to ensure proper spacing. 3. Water regularly to maintain consistent moisture. 4. Use organic mulch to keep the soil cool. 5. Fertilize with balanced nutrients. 6. Keep the soil weed-free. 7. Avoid harvesting too early. 8. Rotate crops to maintain soil health. 9. Monitor for pests like root maggots. 10. Store in a cool, dark place after harvesting.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733471242/agryImages/au0dpfatvlflenvq4tjm.jpg",
+      "sp": 60,
+      "bp": 35
+    },
+    {
+      "id": 4,
+      "name": "Cucumber",
+      "info": "Cucumbers grow best in warm weather with plenty of sunlight. They require moist, well-drained soil and consistent watering.",
+      "bestPractices": "1. Use trellises to save space and reduce disease. 2. Water regularly to keep the soil moist. 3. Provide plenty of sunlight. 4. Use organic compost for soil fertility. 5. Mulch to retain moisture and control weeds. 6. Prune vines to promote air circulation. 7. Harvest early for tender fruits. 8. Monitor for pests like cucumber beetles. 9. Rotate crops annually. 10. Use drip irrigation to conserve water.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733471439/agryImages/knhtoewbbppfs95pv5et.jpg",
+      "sp": 45,
+      "bp": 25
+    },
+    {
+      "id": 5,
+      "name": "Spinach",
+      "info": "Spinach thrives in cool weather and well-drained, fertile soil. It requires regular watering and plenty of sunlight.",
+      "bestPractices": "1. Plant in nutrient-rich, well-drained soil. 2. Water consistently to keep soil moist. 3. Harvest leaves regularly to promote new growth. 4. Avoid over-fertilizing with nitrogen. 5. Rotate crops to avoid soil depletion. 6. Use mulch to keep soil cool and moist. 7. Monitor for pests like aphids and leaf miners. 8. Harvest young, tender leaves for best taste. 9. Grow spinach during cooler months to avoid bolting. 10. Store in the refrigerator to maintain freshness.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733471577/agryImages/i5vutmoounm420wxwukw.jpg",
+      "sp": 55,
+      "bp": 30
+    },
+    {
+      "id": 6,
+      "name": "Onion",
+      "info": "Onions thrive in well-drained soils with good sunlight. They require moderate watering and are sensitive to waterlogging.",
+      "bestPractices": "1. Use disease-resistant onion varieties. 2. Plant in loose, well-drained soil. 3. Keep soil consistently moist but not waterlogged. 4. Mulch to keep the soil cool and moist. 5. Harvest onions when tops begin to fall over. 6. Store in a cool, dry place. 7. Monitor for pests like onion flies. 8. Rotate crops annually. 9. Fertilize with balanced nutrients. 10. Avoid planting onions too early to prevent frost damage.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733471652/agryImages/ybtfb1i7cdwpar6wu14c.jpg",
+      "sp": 50,
+      "bp": 35
+    },
+    {
+      "id": 7,
+      "name": "Lettuce",
+      "info": "Lettuce grows best in cool climates with well-drained soil. It needs consistent moisture and partial shade during hot weather.",
+      "bestPractices": "1. Grow in nutrient-rich, well-drained soil. 2. Water consistently to prevent wilting. 3. Use row covers to protect from pests. 4. Harvest leaves regularly to encourage new growth. 5. Avoid excessive nitrogen fertilization. 6. Rotate crops to avoid pests and diseases. 7. Thin plants to ensure proper spacing. 8. Mulch to conserve moisture. 9. Monitor for pests like aphids and slugs. 10. Harvest early for tender leaves.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733471772/agryImages/gydjoysczf97sibjbbfn.jpg",
+      "sp": 45,
+      "bp": 25
+    },
+    {
+      "id": 8,
+      "name": "Bell Pepper",
+      "info": "Bell peppers grow best in warm climates with plenty of sunlight. They need well-drained, fertile soil and consistent watering.",
+      "bestPractices": "1. Plant in well-drained, nutrient-rich soil. 2. Water regularly to keep soil moist. 3. Use organic mulch to retain moisture and control weeds. 4. Provide adequate spacing for proper air circulation. 5. Harvest peppers when fully colored for best flavor. 6. Use supports to prevent breakage from heavy fruit. 7. Rotate crops to prevent soil depletion. 8. Monitor for pests like aphids and whiteflies. 9. Fertilize with balanced nutrients. 10. Store peppers in a cool, dry place.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733471865/agryImages/nj18oo7jrtzldfradd6q.jpg",
+      "sp": 70,
+      "bp": 40
+    },
+    {
+      "id": 9,
+      "name": "Cabbage",
+      "info": "Cabbage grows best in cool climates with fertile, well-drained soils. It requires consistent moisture and prefers full sun.",
+      "bestPractices": "1. Use disease-resistant cabbage varieties. 2. Fertilize with balanced nutrients. 3. Keep soil consistently moist. 4. Mulch to retain soil moisture. 5. Harvest when heads are firm and fully formed. 6. Monitor for pests like cabbage worms. 7. Rotate crops annually to prevent soil depletion. 8. Thin seedlings to ensure proper spacing. 9. Use row covers to protect from pests. 10. Store in a cool, dry place after harvest.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733473260/agryImages/qwlbiptvsqi2jor2auh7.jpg",
+      "sp": 60,
+      "bp": 35
+    },
+    {
+      "id": 10,
+      "name": "Cauliflower",
+      "info": "Cauliflower grows best in cool climates and well-drained, fertile soil. It requires consistent moisture and full sunlight.",
+      "bestPractices": "1. Use disease-resistant varieties. 2. Fertilize with balanced nutrients. 3. Provide consistent moisture to prevent bolting. 4. Protect from pests like aphids and caterpillars. 5. Harvest when heads are compact and white. 6. Use row covers to protect from pests. 7. Thin plants to ensure proper spacing. 8. Rotate crops to avoid soil-borne diseases. 9. Mulch to retain soil moisture. 10. Store cauliflower in a cool, dry place.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733473468/agryImages/xi4yc8iifynujnlvfaky.webp",
+      "sp": 75,
+      "bp": 50
+    }
+  ],
+  "dryfruits": [
+    {
+      "id": 1,
+      "name": "Almonds",
+      "info": "Almonds are nutrient-rich nuts that thrive in temperate climates. They are known for their high vitamin E content and health benefits.",
+      "bestPractices": "1. Grow in well-drained, sandy soil. 2. Provide plenty of sunlight. 3. Ensure regular irrigation but avoid waterlogging. 4. Prune trees to maintain shape and promote air circulation. 5. Harvest when nuts have matured and shells have split. 6. Use organic compost to enrich soil. 7. Store in cool, dry conditions to maintain freshness. 8. Monitor for pests like aphids and caterpillars. 9. Rotate crops for soil health. 10. Use integrated pest management (IPM) to reduce chemical use.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733473694/agryImages/pc0nm5cgswmwdbyw3d0s.jpg",
+      "sp": 500,
+      "bp": 400
+    },
+    {
+      "id": 2,
+      "name": "Cashews",
+      "info": "Cashews are grown in tropical climates and are known for their high protein content. The nuts are often consumed roasted or raw.",
+      "bestPractices": "1. Grow in well-drained, sandy soil. 2. Ensure proper spacing between trees to allow air circulation. 3. Regularly irrigate but avoid waterlogging. 4. Prune trees to maintain a healthy shape. 5. Harvest when cashew apples turn red or yellow. 6. Dry the nuts before storage. 7. Monitor for pests like mealybugs and termites. 8. Use organic fertilizers to improve soil fertility. 9. Store in cool, dry conditions to preserve quality. 10. Rotate crops to prevent soil depletion.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733473988/agryImages/o5n3tayd7n5z3gtez6y9.jpg",
+      "sp": 650,
+      "bp": 550
+    },
+    {
+      "id": 3,
+      "name": "Pistachios",
+      "info": "Pistachios are grown in warm, dry climates and are known for their high antioxidant content and distinct flavor.",
+      "bestPractices": "1. Plant in well-drained, loamy soil. 2. Provide plenty of sunlight and avoid excessive water. 3. Prune trees to encourage healthy growth. 4. Harvest when shells begin to split. 5. Store in cool, dry conditions to maintain quality. 6. Avoid over-fertilization. 7. Monitor for pests like aphids and webworms. 8. Use organic compost to improve soil health. 9. Rotate crops every few years to maintain soil fertility. 10. Use pest-resistant varieties where possible.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733474109/agryImages/tdz3zsfvtcrki77zw71f.jpg",
+      "sp": 700,
+      "bp": 600
+    },
+    {
+      "id": 4,
+      "name": "Walnuts",
+      "info": "Walnuts are rich in omega-3 fatty acids and are commonly grown in temperate climates. They require ample sunlight and well-drained soil.",
+      "bestPractices": "1. Plant in well-drained, fertile soil. 2. Ensure regular irrigation, especially during dry periods. 3. Prune trees to remove dead or damaged branches. 4. Harvest when walnuts have fallen from the tree. 5. Dry the nuts before storage. 6. Store in cool, dry places to prevent spoilage. 7. Monitor for pests like walnut aphids. 8. Use organic fertilizers to improve soil fertility. 9. Rotate crops to avoid soil depletion. 10. Use proper pest management to minimize chemical usage.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733474184/agryImages/flreitwlefsxirnkyomg.jpg",
+      "sp": 450,
+      "bp": 375
+    },
+    {
+      "id": 5,
+      "name": "Hazelnuts",
+      "info": "Hazelnuts are grown in temperate climates and are known for their rich, nutty flavor. They are often used in desserts and snacks.",
+      "bestPractices": "1. Plant in well-drained, fertile soil. 2. Provide adequate spacing for trees to grow. 3. Irrigate regularly to maintain consistent moisture. 4. Prune trees to remove dead or diseased branches. 5. Harvest when nuts have ripened and fallen from the tree. 6. Dry and store nuts in cool, dry conditions. 7. Monitor for pests like aphids and caterpillars. 8. Fertilize with organic materials. 9. Rotate crops to maintain soil fertility. 10. Protect trees from strong winds.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733474309/agryImages/ethqnze25v8lp9qzpoqc.webp",
+      "sp": 550,
+      "bp": 475
+    },
+    {
+      "id": 6,
+      "name": "Macadamia Nuts",
+      "info": "Macadamia nuts thrive in tropical and subtropical climates and are highly valued for their rich, buttery taste and high fat content.",
+      "bestPractices": "1. Grow in well-drained, sandy soil. 2. Ensure adequate sunlight and warmth. 3. Prune trees to maintain shape and remove dead wood. 4. Harvest when nuts are mature and have dropped from the tree. 5. Dry the nuts before storage. 6. Monitor for pests like macadamia nut borer. 7. Use organic fertilizers to promote healthy soil. 8. Irrigate consistently, but avoid waterlogging. 9. Rotate crops to preserve soil health. 10. Protect from high winds during the growing season.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733474394/agryImages/pltsn4xx0wcaxl06tddr.jpg",
+      "sp": 1000,
+      "bp": 850
+    },
+    {
+      "id": 7,
+      "name": "Brazil Nuts",
+      "info": "Brazil nuts are grown in the Amazon rainforest and are known for their high selenium content and rich flavor.",
+      "bestPractices": "1. Grow in well-drained, acidic soil. 2. Ensure the trees receive plenty of sunlight. 3. Avoid excessive watering, but maintain consistent moisture. 4. Prune trees to remove dead or unhealthy branches. 5. Harvest when nuts have fallen from the tree. 6. Dry and store nuts in cool, dry conditions. 7. Monitor for pests like ants and termites. 8. Use organic compost to improve soil fertility. 9. Rotate crops to prevent soil depletion. 10. Ensure protection from high winds during harvest.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733474519/agryImages/nlmiwq9wabgcttghinex.webp",
+      "sp": 1200,
+      "bp": 1000
+    },
+    {
+      "id": 8,
+      "name": "Pine Nuts",
+      "info": "Pine nuts are harvested from pine trees and are known for their delicate flavor. They are commonly used in salads, pesto, and desserts.",
+      "bestPractices": "1. Harvest pine nuts when cones open and nuts are easily accessible. 2. Store in cool, dry places to prevent spoilage. 3. Avoid excessive watering, as this can lead to fungal diseases. 4. Use organic fertilizers to maintain soil health. 5. Prune trees to remove dead or damaged branches. 6. Monitor for pests like pine nut weevil. 7. Ensure proper spacing to allow trees to mature. 8. Rotate crops to prevent soil depletion. 9. Protect from high winds during the growing season. 10. Harvest cones carefully to avoid damaging the nuts.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733474593/agryImages/kjbym78lww4d5cudbyia.webp",
+      "sp": 1500,
+      "bp": 1300
+    },
+    {
+      "id": 9,
+      "name": "Chestnuts",
+      "info": "Chestnuts are commonly grown in temperate climates and are known for their sweet, starchy flavor. They require well-drained soil and plenty of sunlight.",
+      "bestPractices": "1. Plant in acidic, well-drained soil. 2. Water regularly, but avoid waterlogging. 3. Prune trees to maintain shape and remove damaged branches. 4. Harvest when nuts have fallen from the tree. 5. Store in cool, dry conditions to prevent mold. 6. Use organic compost to improve soil fertility. 7. Monitor for pests like chestnut weevil. 8. Rotate crops to maintain soil health. 9. Protect trees from strong winds during the growing season. 10. Avoid over-fertilization.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733474836/agryImages/lnxnyn8groqujrw7nhat.webp",
+      "sp": 800,
+      "bp": 650
+    },
+    {
+      "id": 10,
+      "name": "Figs",
+      "info": "Figs are grown in warm, dry climates and are known for their sweet, honey-like flavor. They require well-drained soil and moderate watering.",
+      "bestPractices": "1. Grow in well-drained, fertile soil. 2. Prune trees to maintain shape and remove dead branches. 3. Water consistently, but avoid waterlogging. 4. Harvest figs when ripe and soft. 5. Use organic compost to improve soil health. 6. Monitor for pests like fig wasps and aphids. 7. Store figs in a cool, dry place. 8. Protect from high winds during the growing season. 9. Rotate crops to prevent soil depletion. 10. Fertilize with organic materials to maintain soil fertility.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733474978/agryImages/tp32srcn5vpuhhdzhb57.jpg",
+      "sp": 300,
+      "bp": 250
+    },
+    {
+      "id": 11,
+      "name": "Resign",
+      "info": "Resins are versatile, natural or synthetic substances commonly used in adhesives, varnishes, and other industrial applications. They thrive in environments where they can be extracted or synthesized efficiently.",
+      "bestPractices": "1. Source resins from healthy, mature plants or synthetic processes. 2. Use proper extraction techniques for natural resins to ensure quality. 3. Store resins in airtight containers to prevent contamination. 4. Apply resins evenly when using in industrial or craft applications. 5. Maintain optimal temperature and humidity levels during storage. 6. Test resin for purity and quality before use. 7. Use protective equipment when handling synthetic resins. 8. Monitor for any environmental impacts during resin production. 9. Recycle or dispose of resin waste responsibly. 10. Utilize resins in appropriate formulations for maximum effectiveness.",
+      "image": "https://res.cloudinary.com/dm3ctxljb/image/upload/v1733475156/agryImages/rwparsrnjnrrpevyxlnp.webp",
+      "sp": 200,
+      "bp": 150
+    }
+  ],
+  "users": [
+    {
+      "id": 1733661279844,
+      "username": "Jhon",
+      "email": "johndoe@example.com",
+      "password": "$2b$10$pDp9G66VO733.KsGfJ48/euX2w4S2dlNxORyWB22s.EkKKYlGWKfu"
+    },
+    {
+      "id": 1733679067608,
+      "username": "Jatin",
+      "email": "suryawanshijatin07@gmail.com",
+      "password": "$2b$10$UkoWJ/2/8Z3VA2FcDLxyRe2dcT1es7C8/M7LuIZ7KE8tGTxO4R5AS"
+    }
+  ]
+}
